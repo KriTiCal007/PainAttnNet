@@ -48,13 +48,6 @@ PainAttnNet
         \   __init__.py
 
 ```  
-## Updates
-
-`update 4/21/2023`  Full code is released.
-
-`update 4/20/2023`  The strutrue of MSCN currently in the code has three convolutional layers for three scales, but this can be easily changed by modifying the code. We will also update the paper later on.
-
-
 ## Get Started
 
 ```
