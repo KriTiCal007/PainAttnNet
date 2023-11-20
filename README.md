@@ -84,19 +84,3 @@ You can change settings at `main_painAttnNet.py` for tuning model structure, `co
 ## Dataset
 The dataset is available at [BioVid Heat Pain Database](https://www.nit.ovgu.de/BioVid.html).
 
-## Reference
-
-If you find our study useful, please cite our paper on arxiv
-```
-@article{lu2023transformer,
-  title={Transformer Encoder with Multiscale Deep Learning for Pain Classification Using Physiological Signals},
-  author={Lu, Zhenyuan and Ozek, Burcu and Kamarthi, Sagar},
-  journal={arXiv preprint arXiv:2303.06845},
-  year={2023}
-}
-```
-
-## Contact
-Zhenyuan Lu\
-Northeastern University, Boston\
-Email: lu.zhenyua[at]northeastern[dot]edu
